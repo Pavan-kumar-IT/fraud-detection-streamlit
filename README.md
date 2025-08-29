@@ -29,7 +29,7 @@ It predicts whether a transaction is **Legitimate** or **Fraudulent** based on h
    ```bash
    git clone https://github.com/Pavan-Kumar-IT/fraud-detection-streamlit.git
    cd fraud-detection-streamlit
-##Install dependencies:
+Install dependencies:
 bash
 pip install -r requirements.txt
 
