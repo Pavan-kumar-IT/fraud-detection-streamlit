@@ -39,4 +39,3 @@ Follow these steps to run the app locally.
 git clone https://github.com/Pavan-kumar-IT/fraud-detection-streamlit.git
 cd fraud-detection-streamlit
 
-
