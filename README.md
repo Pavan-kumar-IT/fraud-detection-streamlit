@@ -36,7 +36,7 @@ Follow these steps to run the app locally.
 - Clone this repo **or** download it as ZIP and extract.
 
 ```bash
-git clone https://github.com/<your-username>/fraud-detection-streamlit.git
+git clone https://github.com/Pavan-kumar-IT/fraud-detection-streamlit.git
 cd fraud-detection-streamlit
 
 
