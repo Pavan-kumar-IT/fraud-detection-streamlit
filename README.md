@@ -24,12 +24,19 @@ It predicts whether a transaction is **Legitimate** or **Fraudulent** based on h
 - **CSV Upload**: Upload transaction data and get fraud predictions.  
 - **Dataset Visualization**: View fraud distribution and charts.  
 
-## 🖥️ How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pavan-Kumar-IT/fraud-detection-streamlit.git
-   cd fraud-detection-streamlit
-Install dependencies : pip install -r requirements.txt
+## 🛠️ Installation & Setup
 
-Run the Streamlit app : streamlit run app.py
+Follow these steps to run the app locally.
+
+### 1) Prerequisites
+- Python 3.9+ installed (check with `python --version`)
+- pip installed (comes with Python)
+
+### 2) Get the code
+- Clone this repo **or** download it as ZIP and extract.
+
+```bash
+git clone https://github.com/<your-username>/fraud-detection-streamlit.git
+cd fraud-detection-streamlit
+
 
